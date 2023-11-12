@@ -6,5 +6,5 @@ int main()
 	showTriangle();
 	showCircle();
 	showSquare();
-	return 0;
+	
 }
